@@ -1,6 +1,3 @@
-//this is the first practice program in c++
-//this code using basic c++ codes and ELSE IF Statement
-
 #include<iostream>
 #include<conio.h>
 
